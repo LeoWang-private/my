@@ -7,10 +7,10 @@ spring:
     
 programmer:
   age: 20
-  name: 伟大的土豆
+  name: 伟大的西红柿
   married: true
   hireDate: 2018/12/23
-  salary: 66666.88
+  salary: 100000.0
   random: ${random.int[1024,65536]}
   skill: {java: master, jquery: proficiency}
   company: [baidu,tengxun,alibaba]
